@@ -1,4 +1,4 @@
 # Github-Git-Demo
-<h1>All github function and commands at one place.</h1>
+<h3>All github function and commands at one place.</h3>
 <br>
 Author : <b>Shivam Tripathi</b>
